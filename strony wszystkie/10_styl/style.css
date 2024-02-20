@@ -1,0 +1,37 @@
+body {
+	background : green;
+	text-align : center;
+	margin	   : 50 px;
+	}
+div {
+ color : rgb(0,0,0);
+ background : rgb(0,128,255);
+ width : 400px;
+ border : 3px black solid;
+}
+h1 {
+ margin : 20px;
+ border : 2px solid red;
+ background : rgb(255,255,155);
+}
+P.normalny {
+	font-family: Helvetica; font-size: 10pt
+}
+P.przypisany {
+	font-family: Helvetica; font-size: 8pt
+}
+P.uwagi {
+	font-family: Helvetica; font-size: 10pt; fotn-weight: bold
+}
+.istotne {
+	font-family: Helvetica; font-size: 14pt; fotn-weight: bold; color: lime
+}
+.klasa_1 {
+	font-family:Verdana,Tahoma,ArialCE,HelvaticaCE,Arial,Helvetica,sans-serif;
+}
+.klasa_2 {
+	font-size:15px;
+}
+.wazne {
+	color: yellow 
+}
